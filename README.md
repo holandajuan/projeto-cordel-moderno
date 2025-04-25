@@ -1,5 +1,5 @@
 
-# 🌐 Projeto NomeDoProjeto
+# 🌐 Projeto Cordel
 
 Este é o repositório do meu projeto hospedado no GitHub Pages.
 
